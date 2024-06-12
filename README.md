@@ -29,4 +29,4 @@
 
 ## 📫 Connect with Me
 
-- [GMAIL](hanzel.mamarungkas09@gmail.com)
+- **GMAIL:** hanzel.mamarungkas09@gmail.com
