@@ -8,7 +8,7 @@
 
 - **Languages:** TypeScript, JavaScript, Python, HTML, CSS
 - **Frameworks:** React, Next.js, React Native, Flask
-- **Tools:** Firebase Firestore, Git, Node.js
+- **Tools:** Firebase Firestore, Git
 
 ## 🔭 Current Projects
 
