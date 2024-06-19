@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Hanzel M. Mamarungkas!
 
-🌟 **A driven college student** adept at crafting innovative digital solutions.  
+🌟 **A driven computer engineer** adept at crafting innovative digital solutions.  
 💻 **Proficient in various programming languages and frameworks** to bring ideas to life.  
 🚀 **Dedicated to ongoing learning** to keep pace with the ever-evolving world of software development.
 
