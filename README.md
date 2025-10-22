@@ -1,32 +1,12 @@
 # 👋 Hello, World! I'm Hanzel M. Mamarungkas!
 
-🌟 **A driven computer engineer** adept at crafting innovative digital solutions.  
-💻 **Proficient in various programming languages and frameworks** to bring ideas to life.  
-🚀 **Dedicated to ongoing learning** to keep pace with the ever-evolving world of software development.
+Passionate Developer experienced in building dynamic, responsive web applications using modern JavaScript frameworks and UI libraries. Skilled in crafting intuitive user interfaces, optimizing performance, and integrating APIs for seamless user experiences. Dedicated to delivering clean, efficient, and scalable front-end solutions.
 
-## 🚧 Skills and Technologies
+## ✨ Front-End Developer
 
-- **Languages:** TypeScript, JavaScript, Python, HTML, CSS
-- **Frameworks:** React, Next.js, React Native, Flask
-- **Tools:** Firebase Firestore, Git
-
-## 🔭 Current Projects
-
-- Developing an attendance monitoring system using facial recognition and geofencing technologies.
-- Building a mobile app for patrol attendance tracking with React Native.
-- Creating dynamic dashboards with Next.js and Leaflet.
-
-## 🌱 Always Learning
-
-- Exploring advanced features in React and Next.js.
-- Enhancing backend skills with Flask and Python.
-- Diving deeper into Firebase for real-time data synchronization.
-
-## ✨ Fun Facts
-
-- I love combining creativity with technology to solve real-world problems.
-- Always eager to collaborate on exciting projects and learn from fellow developers.
+Specializes in building responsive and dynamic web and mobile interfaces using Vue (Quasar), Next.js, and React Native with Expo. Experienced in TypeScript and Tailwind CSS, crafting efficient, maintainable code and seamless API integrations.
 
 ## 📫 Connect with Me
 
 - **GMAIL:** hanzel.mamarungkas09@gmail.com
+- **LinkedIN:** https://www.linkedin.com/in/hanzel-mamarungkas-49029a299
